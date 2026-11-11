@@ -1,0 +1,13 @@
+record_id,month,segment,category,budget_cad,actual_cad
+1,2025-01-01,Retail,Revenue,100000,105000
+2,2025-01-01,Retail,Expense,60000,62000
+3,2025-01-01,Business,Revenue,80000,78000
+4,2025-01-01,Business,Expense,45000,44000
+5,2025-02-01,Retail,Revenue,110000,108000
+6,2025-02-01,Retail,Expense,65000,64000
+7,2025-02-01,Business,Revenue,85000,89000
+8,2025-02-01,Business,Expense,48000,50000
+9,2025-03-01,Retail,Revenue,120000,126000
+10,2025-03-01,Retail,Expense,70000,73000
+11,2025-03-01,Business,Revenue,90000,93000
+12,2025-03-01,Business,Expense,50000,49000
