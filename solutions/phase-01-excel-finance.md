@@ -6,6 +6,10 @@
 
 For the January Retail hand check, actual revenue is CAD 105,000 and actual expense is CAD 62,000, so actual profit is CAD 43,000. Budget profit is CAD 40,000; favorable profit variance is CAD 3,000.
 
+Profit and cash flow are different measures. Profit compares revenue earned and expenses incurred during a period; cash flow tracks when cash is received and paid. For example, a sale can count as revenue before the customer pays, so it increases profit before the cash arrives. In this dataset, “actual” means the recorded actual amount, not necessarily cash received or paid.
+
+These data do not constitute a complete income statement. They contain summarized monthly revenue and expense amounts by segment, but not the detailed accounts or all items needed to show complete financial performance, such as taxes and other unrepresented costs. They also contain no cash-flow or balance-sheet information, so the calculated profit is a simplified management-reporting measure, not a complete financial statement.
+
 ## Week 4 — Management handoff
 
 The figures below use the fictional [finance dataset](../data/finance_monthly.csv) and its [KPI definitions](../data/README.md). Check them in your workbook before using the memo.

@@ -28,7 +28,7 @@ Answer from memory. For the final question, connect the concepts learned this we
 
    **Response:**
 
-4. How would you apply row grain, revenue, expenses as positive costs, profit (revenue minus expense), and favorable budget-versus-actual variance as a data analyst in the real world? Give one example and explain.
+4. How would you apply what you learned this week as a data analyst in the real-world? Give one example and explain.
 
    **Response:**
 
